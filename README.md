@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Andoriod Development**
+- 🔭 I’m currently working on **JAVA Development**
 
-- 🌱 I’m currently learning **Kotlin,Andoroid Development**
+- 🌱 I’m currently learning **Sringboot,Hibernate**
 
-- 👯 I’m looking to collaborate on **Kotlin Project**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 💬 Ask me about **Java**
 
